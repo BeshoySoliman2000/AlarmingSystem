@@ -1,0 +1,2 @@
+T2DELAY_program.c:9:6:MTIMER2_voidInitTimer2Delay	4	static
+T2DELAY_program.c:16:6:MTIMER2_voidStartDealyInMicroSeconds	32	static
